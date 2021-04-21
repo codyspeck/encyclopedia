@@ -14,6 +14,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Serilog (https://github.com/serilog/serilog)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
+- Respawn (https://github.com/jbogard/Respawn)
 
 ## React
 

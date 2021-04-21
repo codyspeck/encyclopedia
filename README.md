@@ -8,6 +8,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - NSubstitute (https://github.com/nsubstitute/NSubstitute)
 - Polly (https://github.com/App-vNext/Polly)
 - Shouldly (https://github.com/shouldly/shouldly)
+- FluentAssertions (https://github.com/fluentassertions/fluentassertions)
 - EF Core (https://github.com/dotnet/efcore)
 - Fixie (https://github.com/fixie/fixie)
 - Serilog (https://github.com/serilog/serilog)

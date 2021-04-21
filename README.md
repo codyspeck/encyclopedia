@@ -2,6 +2,18 @@
 
 This repository is intended to serve as a reference point for various tools, libraries, articles, cli commands, and other miscellaneous things that I've found helpful in my career or am interested in learning about or using.
 
+## .NET
+
+- Moq (https://github.com/moq/moq)
+- NSubstitute (https://github.com/nsubstitute/NSubstitute)
+- Polly (https://github.com/App-vNext/Polly)
+- Shouldly (https://github.com/shouldly/shouldly)
+- EF Core (https://github.com/dotnet/efcore)
+- Fixie (https://github.com/fixie/fixie)
+- Serilog (https://github.com/serilog/serilog)
+- FluentValidation (https://github.com/FluentValidation/FluentValidation)
+- BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
+
 ## React
 
 - Next.js (https://nextjs.org/)

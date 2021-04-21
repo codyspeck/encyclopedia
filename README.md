@@ -21,5 +21,6 @@ This repository is intended to serve as a reference point for various tools, lib
 - Next.js (https://nextjs.org/)
 - Remix (https://remix.run/)
 - React Testing Library (https://testing-library.com/)
+- React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - Kent C. Dodd's Epic React Course (https://epicreact.dev/)
 - Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)

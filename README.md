@@ -24,10 +24,13 @@ This repository is intended to serve as a reference point for various tools, lib
 - React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - Kent C. Dodd's Epic React Course (https://epicreact.dev/)
 - Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
+- SWR (https://github.com/vercel/swr)
+- React-Query (https://github.com/tannerlinsley/react-query)
 
-## Platforms
+## Tools
 
 - Auth0 (https://auth0.com/)
+- Seq (https://datalust.co/seq)
 
 ## Miscellaneous
 

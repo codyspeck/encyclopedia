@@ -23,6 +23,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - React Testing Library (https://testing-library.com/)
 - Jest (https://github.com/facebook/jest)
 - React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
+- Testing Playground (https://testing-playground.com/)
 - Kent C. Dodd's Epic React Course (https://epicreact.dev/)
 - Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
 - SWR (https://github.com/vercel/swr)

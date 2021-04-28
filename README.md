@@ -11,6 +11,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - FluentAssertions (https://github.com/fluentassertions/fluentassertions)
 - EF Core (https://github.com/dotnet/efcore)
 - Fixie (https://github.com/fixie/fixie)
+- xUnit (https://github.com/xunit/xunit)
 - Serilog (https://github.com/serilog/serilog)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)

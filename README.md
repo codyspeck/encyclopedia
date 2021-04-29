@@ -29,6 +29,8 @@ This repository is intended to serve as a reference point for various tools, lib
 - Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
 - SWR (https://github.com/vercel/swr)
 - React-Query (https://github.com/tannerlinsley/react-query)
+- React-Spring (https://github.com/pmndrs/react-spring)
+- Framer Motion (https://github.com/framer/motion)
 
 ## Tools
 

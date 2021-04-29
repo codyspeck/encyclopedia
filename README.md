@@ -16,6 +16,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
 - Respawn (https://github.com/jbogard/Respawn)
+- WireMock (https://github.com/WireMock-Net/WireMock.Net)
 
 ## React
 

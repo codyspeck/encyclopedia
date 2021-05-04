@@ -44,3 +44,4 @@ This repository is intended to serve as a reference point for various tools, lib
 - Apihouse (https://apihouse.vercel.app/)
 - Readme.so (https://readme.so/)
 - unDraw (https://undraw.co/)
+- David Fowler's Standard .NET Project Structure (https://gist.github.com/davidfowl/ed7564297c61fe9ab814)

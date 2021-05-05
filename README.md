@@ -33,6 +33,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - React-Query (https://github.com/tannerlinsley/react-query)
 - React-Spring (https://github.com/pmndrs/react-spring)
 - Framer Motion (https://github.com/framer/motion)
+- Mock Service Worker (https://github.com/mswjs/msw)
 
 ## Tools
 

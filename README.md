@@ -47,3 +47,5 @@ This repository is intended to serve as a reference point for various tools, lib
 - Readme.so (https://readme.so/)
 - unDraw (https://undraw.co/)
 - David Fowler's Standard .NET Project Structure (https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
+- Get Waves (https://getwaves.io/)
+- Blobmaker (https://www.blobmaker.app/)

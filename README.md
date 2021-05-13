@@ -49,3 +49,20 @@ This repository is intended to serve as a reference point for various tools, lib
 - David Fowler's Standard .NET Project Structure (https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
 - Get Waves (https://getwaves.io/)
 - Blobmaker (https://www.blobmaker.app/)
+
+## Git
+
+How do I unstage files?
+`git restore --staged .`
+
+How do I discard local changes to files?
+`git checkout .`
+
+How do I discard newly added unstaged files?
+`git clean -f`
+
+How do I discard newly added unstaged files and directories?
+`git clean -fd`
+
+How do I discard all untracked files and directories?
+`clean clean -fdX`

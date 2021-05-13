@@ -40,6 +40,9 @@ This repository is intended to serve as a reference point for various tools, lib
 
 - Auth0 (https://auth0.com/)
 - Seq (https://datalust.co/seq)
+- SonarQube (https://www.sonarqube.org/)
+- Octopus Deploy (https://octopus.com/)
+- Terraform (https://www.terraform.io/)
 
 ## Miscellaneous
 

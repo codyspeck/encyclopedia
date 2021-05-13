@@ -52,17 +52,17 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## Git
 
-How do I unstage files?
+How do I unstage files?\
 `git restore --staged .`
 
-How do I discard local changes to files?
+How do I discard local changes to files?\
 `git checkout .`
 
-How do I discard newly added unstaged files?
+How do I discard newly added unstaged files?\
 `git clean -f`
 
-How do I discard newly added unstaged files and directories?
+How do I discard newly added unstaged files and directories?\
 `git clean -fd`
 
-How do I discard all untracked files and directories?
-`clean clean -fdX`
+How do I discard all untracked files and directories?\
+`git clean -fdX`

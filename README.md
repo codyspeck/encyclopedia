@@ -19,6 +19,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - WireMock (https://github.com/WireMock-Net/WireMock.Net)
 - AutoFixture (https://github.com/AutoFixture)
 - CliFx (https://github.com/Tyrrrz/CliFx)
+- NBomber (https://github.com/PragmaticFlow/NBomber)
 
 ## React
 

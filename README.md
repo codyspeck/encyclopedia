@@ -40,6 +40,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Redux (https://github.com/reduxjs/react-redux)
 - React Router (https://github.com/remix-run/react-router)
 - Tailwind (https://tailwindcss.com/)
+- React Spinners (https://github.com/davidhu2000/react-spinners)
 
 ## Tools
 

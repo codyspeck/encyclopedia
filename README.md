@@ -38,6 +38,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Formik (https://github.com/formium/formik)
 - Yup (https://github.com/jquense/yup)
 - Redux (https://github.com/reduxjs/react-redux)
+- React Router (https://github.com/remix-run/react-router)
 
 ## Tools
 

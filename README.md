@@ -37,6 +37,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Mock Service Worker (https://github.com/mswjs/msw)
 - Formik (https://github.com/formium/formik)
 - Yup (https://github.com/jquense/yup)
+- Redux (https://github.com/reduxjs/react-redux)
 
 ## Tools
 

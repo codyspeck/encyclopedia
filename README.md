@@ -21,6 +21,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - CliFx (https://github.com/Tyrrrz/CliFx)
 - NBomber (https://github.com/PragmaticFlow/NBomber)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects)
+- CliWrap (https://github.com/Tyrrrz/CliWrap)
 
 ## React
 

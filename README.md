@@ -6,6 +6,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 - AutoFixture (https://github.com/AutoFixture)
 - BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
+- Bogus (https://github.com/bchavez/Bogus)
 - CliFx (https://github.com/Tyrrrz/CliFx)
 - CliWrap (https://github.com/Tyrrrz/CliWrap)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects)

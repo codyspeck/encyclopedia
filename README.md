@@ -27,6 +27,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## React
 
+- Classnames (https://github.com/JedWatson/classnames)
 - Formik (https://github.com/formium/formik)
 - Framer Motion (https://github.com/framer/motion)
 - Jest (https://github.com/facebook/jest)

@@ -14,6 +14,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Fixie (https://github.com/fixie/fixie)
 - FluentAssertions (https://github.com/fluentassertions/fluentassertions)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
+- HangFire (https://github.com/HangfireIO/Hangfire)
 - Moq (https://github.com/moq/moq)
 - NBomber (https://github.com/PragmaticFlow/NBomber)
 - NSubstitute (https://github.com/nsubstitute/NSubstitute)

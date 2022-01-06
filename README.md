@@ -63,6 +63,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - David Fowler's Standard .NET Project Structure (https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
 - Get Waves (https://getwaves.io/)
 - Haikei (https://app.haikei.app/)
+- Pact (https://docs.pact.io/)
 - Readme.so (https://readme.so/)
 - unDraw (https://undraw.co/)
 

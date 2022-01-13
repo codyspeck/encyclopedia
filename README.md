@@ -17,6 +17,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - HangFire (https://github.com/HangfireIO/Hangfire)
 - Moq (https://github.com/moq/moq)
 - NBomber (https://github.com/PragmaticFlow/NBomber)
+- NServiceBus (https://particular.net/nservicebus)
 - NSubstitute (https://github.com/nsubstitute/NSubstitute)
 - Polly (https://github.com/App-vNext/Polly)
 - Respawn (https://github.com/jbogard/Respawn)

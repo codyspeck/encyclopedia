@@ -50,6 +50,11 @@ This repository is intended to serve as a reference point for various tools, lib
 - Testing Playground (https://testing-playground.com/)
 - Yup (https://github.com/jquense/yup)
 
+## Node
+
+- Prisma (https://www.prisma.io/)
+- Electron (https://www.electronjs.org/)
+
 ## Tools
 
 - Auth0 (https://auth0.com/)

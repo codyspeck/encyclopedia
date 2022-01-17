@@ -57,11 +57,14 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## Tools
 
-- Auth0 (https://auth0.com/)
 - Event Store (https://www.eventstore.com/)
-- Octopus Deploy (https://octopus.com/)
 - Seq (https://datalust.co/seq)
 - SonarQube (https://www.sonarqube.org/)
+
+## Infrastructure
+
+- Auth0 (https://auth0.com/)
+- Octopus (https://octopus.com/)
 - Terraform (https://www.terraform.io/)
 - Vault (https://github.com/hashicorp/vault)
 

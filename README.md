@@ -36,7 +36,6 @@ This repository is intended to serve as a reference point for various tools, lib
 - Kent C. Dodd's Epic React Course (https://epicreact.dev/)
 - Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
 - Mock Service Worker (https://github.com/mswjs/msw)
-- Next.js (https://nextjs.org/)
 - React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - React-Query (https://github.com/tannerlinsley/react-query)
 - React Router (https://github.com/remix-run/react-router)
@@ -44,11 +43,16 @@ This repository is intended to serve as a reference point for various tools, lib
 - React-Spring (https://github.com/pmndrs/react-spring)
 - React Testing Library (https://testing-library.com/)
 - Redux (https://github.com/reduxjs/react-redux)
-- Remix (https://remix.run/)
 - SWR (https://github.com/vercel/swr)
 - Tailwind (https://tailwindcss.com/)
 - Testing Playground (https://testing-playground.com/)
 - Yup (https://github.com/jquense/yup)
+
+## React Frameworks
+
+- Create React App (https://create-react-app.dev/)
+- Next (https://nextjs.org/)
+- Remix (https://remix.run/)
 
 ## Node
 

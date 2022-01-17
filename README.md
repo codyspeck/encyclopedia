@@ -12,6 +12,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - HangFire (https://github.com/HangfireIO/Hangfire)
 - NServiceBus (https://particular.net/nservicebus)
 - Polly (https://github.com/App-vNext/Polly)
+- Scrutor (https://github.com/khellang/Scrutor)
 - Serilog (https://github.com/serilog/serilog)
 - Yarp (https://github.com/microsoft/reverse-proxy)
 

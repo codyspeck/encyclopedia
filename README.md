@@ -4,60 +4,69 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## .NET
 
-- AutoFixture (https://github.com/AutoFixture)
-- BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
-- Bogus (https://github.com/bchavez/Bogus)
 - CliFx (https://github.com/Tyrrrz/CliFx)
 - CliWrap (https://github.com/Tyrrrz/CliWrap)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects)
 - EF Core (https://github.com/dotnet/efcore)
-- Fixie (https://github.com/fixie/fixie)
-- FluentAssertions (https://github.com/fluentassertions/fluentassertions)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - HangFire (https://github.com/HangfireIO/Hangfire)
+- NServiceBus (https://particular.net/nservicebus)
+- Polly (https://github.com/App-vNext/Polly)
+- Serilog (https://github.com/serilog/serilog)
+- Yarp (https://github.com/microsoft/reverse-proxy)
+
+### Testing
+
+- AutoFixture (https://github.com/AutoFixture)
+- BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
+- Bogus (https://github.com/bchavez/Bogus)
+- Fixie (https://github.com/fixie/fixie)
+- FluentAssertions (https://github.com/fluentassertions/fluentassertions)
 - Moq (https://github.com/moq/moq)
 - NBomber (https://github.com/PragmaticFlow/NBomber)
-- NServiceBus (https://particular.net/nservicebus)
 - NSubstitute (https://github.com/nsubstitute/NSubstitute)
-- Polly (https://github.com/App-vNext/Polly)
 - Respawn (https://github.com/jbogard/Respawn)
-- Serilog (https://github.com/serilog/serilog)
 - Shouldly (https://github.com/shouldly/shouldly)
 - WireMock (https://github.com/WireMock-Net/WireMock.Net)
 - xUnit (https://github.com/xunit/xunit)
-- Yarp (https://github.com/microsoft/reverse-proxy)
 
 ## React
 
 - Classnames (https://github.com/JedWatson/classnames)
 - Formik (https://github.com/formium/formik)
 - Framer Motion (https://github.com/framer/motion)
-- Jest (https://github.com/facebook/jest)
-- Kent C. Dodd's Epic React Course (https://epicreact.dev/)
-- Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
-- Mock Service Worker (https://github.com/mswjs/msw)
 - React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
 - React-Query (https://github.com/tannerlinsley/react-query)
 - React Router (https://github.com/remix-run/react-router)
 - React Spinners (https://github.com/davidhu2000/react-spinners)
 - React-Spring (https://github.com/pmndrs/react-spring)
-- React Testing Library (https://testing-library.com/)
 - Redux (https://github.com/reduxjs/react-redux)
 - SWR (https://github.com/vercel/swr)
 - Tailwind (https://tailwindcss.com/)
 - Testing Playground (https://testing-playground.com/)
 - Yup (https://github.com/jquense/yup)
 
-## React Frameworks
+### Frameworks
 
 - Create React App (https://create-react-app.dev/)
 - Next (https://nextjs.org/)
 - Remix (https://remix.run/)
 
+### Learning
+
+- Kent C. Dodd's Epic React Course (https://epicreact.dev/)
+- Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
+
+### Testing
+
+- Jest (https://github.com/facebook/jest)
+- Mock Service Worker (https://github.com/mswjs/msw)
+- React Testing Library (https://testing-library.com/)
+
 ## Node
 
-- Prisma (https://www.prisma.io/)
 - Electron (https://www.electronjs.org/)
+- Prisma (https://www.prisma.io/)
 
 ## Tools
 

@@ -43,7 +43,6 @@ This repository is intended to serve as a reference point for various tools, lib
 - Redux (https://github.com/reduxjs/react-redux)
 - SWR (https://github.com/vercel/swr)
 - Tailwind (https://tailwindcss.com/)
-- Testing Playground (https://testing-playground.com/)
 - Yup (https://github.com/jquense/yup)
 
 ### Frameworks
@@ -62,6 +61,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Jest (https://github.com/facebook/jest)
 - Mock Service Worker (https://github.com/mswjs/msw)
 - React Testing Library (https://testing-library.com/)
+- Testing Playground (https://testing-playground.com/)
 
 ## Node
 

@@ -63,6 +63,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Seq (https://datalust.co/seq)
 - SonarQube (https://www.sonarqube.org/)
 - Terraform (https://www.terraform.io/)
+- Vault (https://github.com/hashicorp/vault)
 
 ## Miscellaneous
 

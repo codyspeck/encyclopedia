@@ -10,6 +10,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - EF Core (https://github.com/dotnet/efcore)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - HangFire (https://github.com/HangfireIO/Hangfire)
+- Hot Chocolate (https://github.com/ChilliCream/hotchocolate)
 - NServiceBus (https://particular.net/nservicebus)
 - Polly (https://github.com/App-vNext/Polly)
 - Scrutor (https://github.com/khellang/Scrutor)

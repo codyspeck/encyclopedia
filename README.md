@@ -15,6 +15,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Polly (https://github.com/App-vNext/Polly)
 - Scrutor (https://github.com/khellang/Scrutor)
 - Serilog (https://github.com/serilog/serilog)
+- Spectre.Console (https://github.com/spectreconsole/spectre.console)
 - Yarp (https://github.com/microsoft/reverse-proxy)
 
 ### Testing

@@ -4,6 +4,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## .NET
 
+- AutoMoq (https://github.com/darrencauthon/AutoMoq)
 - CliFx (https://github.com/Tyrrrz/CliFx)
 - CliWrap (https://github.com/Tyrrrz/CliWrap)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects)

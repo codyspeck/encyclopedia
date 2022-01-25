@@ -9,6 +9,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - CliWrap (https://github.com/Tyrrrz/CliWrap)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects)
 - EF Core (https://github.com/dotnet/efcore)
+- FastEndpoints (https://github.com/dj-nitehawk/FastEndpoints)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - HangFire (https://github.com/HangfireIO/Hangfire)
 - Hot Chocolate (https://github.com/ChilliCream/hotchocolate)

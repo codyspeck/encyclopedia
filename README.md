@@ -58,6 +58,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ### Learning
 
+- A11y Project (https://www.a11yproject.com/)
 - Kent C. Dodd's Epic React Course (https://epicreact.dev/)
 - Kent C. Dodd's Testing JavaScript Course (https://testingjavascript.com/)
 

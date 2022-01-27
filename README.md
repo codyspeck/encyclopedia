@@ -79,6 +79,7 @@ This repository is intended to serve as a reference point for various tools, lib
 ## Tools
 
 - Event Store (https://www.eventstore.com/)
+- PlanetScale (https://planetscale.com/)
 - Seq (https://datalust.co/seq)
 - SonarQube (https://www.sonarqube.org/)
 

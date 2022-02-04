@@ -75,6 +75,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 - Electron (https://www.electronjs.org/)
 - Prisma (https://www.prisma.io/)
+- Swc (https://swc.rs/)
 
 ## Tools
 

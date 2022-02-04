@@ -25,33 +25,33 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ### Testing
 
-- AutoFixture (https://github.com/AutoFixture)
-- BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet)
-- Bogus (https://github.com/bchavez/Bogus)
-- Fixie (https://github.com/fixie/fixie)
-- FluentAssertions (https://github.com/fluentassertions/fluentassertions)
-- Moq (https://github.com/moq/moq)
-- NBomber (https://github.com/PragmaticFlow/NBomber)
-- NSubstitute (https://github.com/nsubstitute/NSubstitute)
-- Respawn (https://github.com/jbogard/Respawn)
-- Shouldly (https://github.com/shouldly/shouldly)
-- WireMock (https://github.com/WireMock-Net/WireMock.Net)
-- xUnit (https://github.com/xunit/xunit)
+- AutoFixture (https://github.com/AutoFixture/)
+- BenchmarkDotNet (https://github.com/dotnet/BenchmarkDotNet/)
+- Bogus (https://github.com/bchavez/Bogus/)
+- Fixie (https://github.com/fixie/fixie/)
+- FluentAssertions (https://github.com/fluentassertions/fluentassertions/)
+- Moq (https://github.com/moq/moq/)
+- NBomber (https://github.com/PragmaticFlow/NBomber/)
+- NSubstitute (https://github.com/nsubstitute/NSubstitute/)
+- Respawn (https://github.com/jbogard/Respawn/)
+- Shouldly (https://github.com/shouldly/shouldly/)
+- WireMock (https://github.com/WireMock-Net/WireMock.Net/)
+- xUnit (https://github.com/xunit/xunit/)
 
 ## React
 
-- Classnames (https://github.com/JedWatson/classnames)
-- Formik (https://github.com/formium/formik)
-- Framer Motion (https://github.com/framer/motion)
-- React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi)
-- React-Query (https://github.com/tannerlinsley/react-query)
-- React Router (https://github.com/remix-run/react-router)
-- React Spinners (https://github.com/davidhu2000/react-spinners)
-- React-Spring (https://github.com/pmndrs/react-spring)
-- Redux (https://github.com/reduxjs/react-redux)
+- Classnames (https://github.com/JedWatson/classnames/)
+- Formik (https://github.com/formium/formik/)
+- Framer Motion (https://github.com/framer/motion/)
+- React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/)
+- React-Query (https://github.com/tannerlinsley/react-query/)
+- React Router (https://github.com/remix-run/react-router/)
+- React Spinners (https://github.com/davidhu2000/react-spinners/)
+- React-Spring (https://github.com/pmndrs/react-spring/)
+- Redux (https://github.com/reduxjs/react-redux/)
 - SWR (https://github.com/vercel/swr)
 - Tailwind (https://tailwindcss.com/)
-- Yup (https://github.com/jquense/yup)
+- Yup (https://github.com/jquense/yup/)
 
 ### Frameworks
 
@@ -67,14 +67,14 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ### Testing
 
-- Jest (https://github.com/facebook/jest)
-- Mock Service Worker (https://github.com/mswjs/msw)
+- Jest (https://github.com/facebook/jest/)
+- Mock Service Worker (https://github.com/mswjs/msw/)
 - React Testing Library (https://testing-library.com/)
 - Testing Playground (https://testing-playground.com/)
 
 ## Node
 
-- Deno (https://deno.land/)
+- Deno (https://github.com/denoland/deno/)
 - Electron (https://www.electronjs.org/)
 - Esbuild (https://github.com/evanw/esbuild/)
 - Prisma (https://www.prisma.io/)
@@ -84,7 +84,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 - Event Store (https://www.eventstore.com/)
 - PlanetScale (https://planetscale.com/)
-- Seq (https://datalust.co/seq)
+- Seq (https://datalust.co/seq/)
 - SonarQube (https://www.sonarqube.org/)
 
 ## Infrastructure
@@ -92,7 +92,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Auth0 (https://auth0.com/)
 - Octopus (https://octopus.com/)
 - Terraform (https://www.terraform.io/)
-- Vault (https://github.com/hashicorp/vault)
+- Vault (https://github.com/hashicorp/vault/)
 
 ## Miscellaneous
 

@@ -15,6 +15,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - FluentValidation (https://github.com/FluentValidation/FluentValidation)
 - HangFire (https://github.com/HangfireIO/Hangfire)
 - Hot Chocolate (https://github.com/ChilliCream/hotchocolate)
+- Mass Transit (https://github.com/MassTransit/MassTransit)
 - NServiceBus (https://particular.net/nservicebus)
 - Polly (https://github.com/App-vNext/Polly)
 - Scrutor (https://github.com/khellang/Scrutor)

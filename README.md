@@ -96,6 +96,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Blobmaker (https://www.blobmaker.app/)
 - David Fowler's Standard .NET Project Structure (https://gist.github.com/davidfowl/ed7564297c61fe9ab814)
 - Dbml (https://www.dbml.org/home/)
+- Excalidraw (https://excalidraw.com/)
 - Get Waves (https://getwaves.io/)
 - Haikei (https://app.haikei.app/)
 - Pact (https://docs.pact.io/)

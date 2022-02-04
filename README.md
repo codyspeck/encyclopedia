@@ -74,7 +74,9 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## Node
 
+- Deno (https://deno.land/)
 - Electron (https://www.electronjs.org/)
+- Esbuild (https://github.com/evanw/esbuild/)
 - Prisma (https://www.prisma.io/)
 - Swc (https://swc.rs/)
 

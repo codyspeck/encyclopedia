@@ -10,6 +10,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - CliWrap (https://github.com/Tyrrrz/CliWrap/)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects/)
 - Coravel (https://github.com/jamesmh/coravel/)
+- Discord.NET (https://github.com/discord-net/Discord.Net/)
 - EF Core (https://github.com/dotnet/efcore/)
 - FastEndpoints (https://github.com/dj-nitehawk/FastEndpoints/)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation/)

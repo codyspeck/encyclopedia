@@ -69,6 +69,7 @@ This repository is intended to serve as a reference point for various tools, lib
 ### Testing
 
 - Jest (https://github.com/facebook/jest/)
+- MirageJS (https://github.com/miragejs/miragejs/)
 - Mock Service Worker (https://github.com/mswjs/msw/)
 - React Testing Library (https://testing-library.com/)
 - Testing Playground (https://testing-playground.com/)

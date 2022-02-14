@@ -68,6 +68,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ### Testing
 
+- Cypress (https://github.com/cypress-io/cypress/)
 - Jest (https://github.com/facebook/jest/)
 - MirageJS (https://github.com/miragejs/miragejs/)
 - Mock Service Worker (https://github.com/mswjs/msw/)

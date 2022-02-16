@@ -44,6 +44,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Classnames (https://github.com/JedWatson/classnames/)
 - Formik (https://github.com/formium/formik/)
 - Framer Motion (https://github.com/framer/motion/)
+- Headless UI (https://github.com/tailwindlabs/headlessui/)
 - React Developer Tools (https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi/)
 - React-Query (https://github.com/tannerlinsley/react-query/)
 - React Router (https://github.com/remix-run/react-router/)

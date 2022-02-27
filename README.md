@@ -42,6 +42,7 @@ This repository is intended to serve as a reference point for various tools, lib
 ## React
 
 - Classnames (https://github.com/JedWatson/classnames/)
+- Dexie (https://github.com/dexie/Dexie.js/)
 - Formik (https://github.com/formium/formik/)
 - Framer Motion (https://github.com/framer/motion/)
 - Headless UI (https://github.com/tailwindlabs/headlessui/)

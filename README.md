@@ -86,6 +86,10 @@ This repository is intended to serve as a reference point for various tools, lib
 - Prisma (https://www.prisma.io/)
 - Swc (https://swc.rs/)
 
+## JavaScript
+
+- Pheno (https://github.com/suchipi/pheno/)
+
 ## Tools
 
 - Event Store (https://www.eventstore.com/)

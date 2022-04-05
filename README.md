@@ -109,6 +109,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 - Apihouse (https://apihouse.vercel.app/)
 - Blobmaker (https://www.blobmaker.app/)
+- Conventional Commits (https://www.conventionalcommits.org/)
 - David Fowler's Standard .NET Project Structure (https://gist.github.com/davidfowl/ed7564297c61fe9ab814/)
 - Dbml (https://www.dbml.org/home/)
 - Excalidraw (https://excalidraw.com/)

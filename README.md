@@ -139,8 +139,8 @@ How do I discard all untracked files and directories?\
 
 ## Blogs
 
-Kent C. Dodds (https://kentcdodds.com/blog/)
-Mark Seemann (https://blog.ploeh.dk/)
-Nick Chapsas (https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg/)
-The Morning Brew (https://blog.cwa.me.uk/)
-Vladimir Khorikov (https://enterprisecraftsmanship.com/)
+- Kent C. Dodds (https://kentcdodds.com/blog/)
+- Mark Seemann (https://blog.ploeh.dk/)
+- Nick Chapsas (https://www.youtube.com/channel/UCrkPsvLGln62OMZRO6K-llg/)
+- The Morning Brew (https://blog.cwa.me.uk/)
+- Vladimir Khorikov (https://enterprisecraftsmanship.com/)

@@ -101,6 +101,7 @@ This repository is intended to serve as a reference point for various tools, lib
 ## Infrastructure
 
 - Auth0 (https://auth0.com/)
+- Clerk (https://clerk.dev/docs/get-started/remix/)
 - Cloudflare Pages (https://pages.cloudflare.com/)
 - Cloudflare Workers (https://workers.cloudflare.com/)
 - Terraform (https://www.terraform.io/)

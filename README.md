@@ -52,6 +52,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - React Spinners (https://github.com/davidhu2000/react-spinners/)
 - React-Spring (https://github.com/pmndrs/react-spring/)
 - Redux (https://github.com/reduxjs/react-redux/)
+- Remix Auth (https://github.com/sergiodxa/remix-auth/)
 - SWR (https://github.com/vercel/swr)
 - Tailwind (https://tailwindcss.com/)
 - Yup (https://github.com/jquense/yup/)

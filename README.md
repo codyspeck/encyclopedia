@@ -4,6 +4,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## .NET
 
+- .NET Foundation Projects (https://dotnetfoundation.org/projects/)
 - ApiEndpoints (https://github.com/ardalis/ApiEndpoints/)
 - AutoMoq (https://github.com/darrencauthon/AutoMoq/)
 - CliFx (https://github.com/Tyrrrz/CliFx/)

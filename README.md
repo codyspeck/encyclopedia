@@ -16,6 +16,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - FastEndpoints (https://github.com/dj-nitehawk/FastEndpoints/)
 - FluentValidation (https://github.com/FluentValidation/FluentValidation/)
 - HangFire (https://github.com/HangfireIO/Hangfire/)
+- HashIds (https://github.com/ullmark/hashids.net/)
 - Hot Chocolate (https://github.com/ChilliCream/hotchocolate/)
 - Mass Transit (https://github.com/MassTransit/MassTransit/)
 - NServiceBus (https://particular.net/nservicebus/)

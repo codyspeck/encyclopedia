@@ -7,6 +7,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - .NET Foundation Projects (https://dotnetfoundation.org/projects/)
 - ApiEndpoints (https://github.com/ardalis/ApiEndpoints/)
 - AutoMoq (https://github.com/darrencauthon/AutoMoq/)
+- Brighter (https://github.com/BrighterCommand/Brighter/)
 - CliFx (https://github.com/Tyrrrz/CliFx/)
 - CliWrap (https://github.com/Tyrrrz/CliWrap/)
 - Compare .NET Objects (https://github.com/GregFinzer/Compare-Net-Objects/)

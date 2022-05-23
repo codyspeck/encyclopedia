@@ -93,6 +93,7 @@ This repository is intended to serve as a reference point for various tools, lib
 ## JavaScript
 
 - Pheno (https://github.com/suchipi/pheno/)
+- XState (https://github.com/statelyai/xstate/)
 
 ## Tools
 

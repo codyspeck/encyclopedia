@@ -59,7 +59,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Remix Auth (https://github.com/sergiodxa/remix-auth/)
 - SWR (https://github.com/vercel/swr)
 - Tailwind (https://tailwindcss.com/)
-- Yup (https://github.com/jquense/yup/)
+- Zod (https://github.com/colinhacks/zod/)
 
 ### Frameworks
 

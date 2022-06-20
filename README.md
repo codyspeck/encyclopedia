@@ -43,7 +43,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - WireMock (https://github.com/WireMock-Net/WireMock.Net/)
 - xUnit (https://github.com/xunit/xunit/)
 
-## React
+## Frontend
 
 - Classnames (https://github.com/JedWatson/classnames/)
 - Dexie (https://github.com/dexie/Dexie.js/)
@@ -58,6 +58,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Redux (https://github.com/reduxjs/react-redux/)
 - Remix Auth (https://github.com/sergiodxa/remix-auth/)
 - SWR (https://github.com/vercel/swr)
+- Tauri (https://github.com/tauri-apps/tauri/)
 - Tailwind (https://tailwindcss.com/)
 - Zod (https://github.com/colinhacks/zod/)
 

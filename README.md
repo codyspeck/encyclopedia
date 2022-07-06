@@ -45,6 +45,7 @@ This repository is intended to serve as a reference point for various tools, lib
 
 ## Frontend
 
+- Bun (https://bun.sh/)
 - Classnames (https://github.com/JedWatson/classnames/)
 - Dexie (https://github.com/dexie/Dexie.js/)
 - Formik (https://github.com/formium/formik/)

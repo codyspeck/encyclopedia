@@ -23,6 +23,7 @@ This repository is intended to serve as a reference point for various tools, lib
 - Mass Transit (https://github.com/MassTransit/MassTransit/)
 - NServiceBus (https://particular.net/nservicebus/)
 - Polly (https://github.com/App-vNext/Polly/)
+- Refit (https://github.com/reactiveui/refit/)
 - Scrutor (https://github.com/khellang/Scrutor/)
 - Serilog (https://github.com/serilog/serilog/)
 - Spectre.Console (https://github.com/spectreconsole/spectre.console/)

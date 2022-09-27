@@ -148,6 +148,10 @@ How do I discard newly added unstaged files and directories?\
 How do I discard all untracked files and directories?\
 `git clean -fdX`
 
+How do I remove a file from the working tree?\
+`git update-index --skip-worktree <file_name>`\
+`git update-index --no-skip-worktree <file_name>`
+
 ## Blogs
 
 - Kent C. Dodds (https://kentcdodds.com/blog/)

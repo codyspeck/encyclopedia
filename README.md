@@ -152,6 +152,9 @@ How do I remove a file from the working tree?\
 `git update-index --skip-worktree <file_name>`\
 `git update-index --no-skip-worktree <file_name>`
 
+How do I exclude a file from git without touching gitignore?\
+`.git/info/exclude`
+
 ## Blogs
 
 - Kent C. Dodds (https://kentcdodds.com/blog/)
